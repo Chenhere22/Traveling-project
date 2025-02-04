@@ -8,3 +8,6 @@ I will write this kind of articles each three days using my free time. The next 
 
 ## The China traveling
 This traveling will be posted on Tiktok. I have posted one video about traveling in China. The orignal vedio I will ask my sister to make and I will add subtitles and audio. Then I can post on Tiktok and Instragram. 
+
+## Marketing
+I will use AI to detect the content on social media and send message or comment to show I can help them to organise traveling in China or Germany. 
