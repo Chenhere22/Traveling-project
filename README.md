@@ -9,5 +9,25 @@ I will write this kind of articles each three days using my free time. The next 
 ## The China traveling
 This traveling will be posted on Tiktok. I have posted one video about traveling in China. The orignal vedio I will ask my sister to make and I will add subtitles and audio. Then I can post on Tiktok and Instragram. 
 
+## Marketing analysis
+China is the second biggest international traveling markets for german tourists. 
+
+German Travel agencies: Their products focus on the typical cities includes Peking, Shanghai, Xi'an, Yangtzi River, Guilin.They don't have highly attend the local lives. 
+Chinese online travel platform: trip.com is used by asia travelers. 
+
+### pain points travel in China
+Internet(apps blocked, need VPN or eSIM)
+Language(download translator, not google)
+Payment(Ali pay and WeChat)
+
+### atrractive points
+History and culture
+Natural sceneries
+A different world
+
+## Product
+individualised products with interacting with locals to know the culture, histories and natures (hiking, cruise, climbing mountains). 
+AI and high tech companies tour in Hangzhou.
+
 ## Marketing
 I will use AI to detect the content on social media and send message or comment to show I can help them to organise traveling in China or Germany. 
