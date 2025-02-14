@@ -21,6 +21,11 @@ Furthermore, as digital technologies transform the travel industry—enabling AI
 German Travel agencies: Their products focus on the typical cities includes Peking, Shanghai, Xi'an, Yangtzi River, Guilin.They don't have highly attend the local lives. 
 Chinese online travel platform: trip.com is used by asia travelers. 
 
+### digital platform
+Digital travel platforms also play a crucial role in shaping travel decisions on German market. in Germany and across Europe, leading platforms like Booking.com and Check24 have consolidated the online travel market. Booking.com, for instance, reportedly commands up to 72% of the European hotel booking market (as noted in industry analyses ), while meta-search engines like Trivago and Kayak continue to provide essential price comparisons that help travelers make informed decisions.
+
+German market is undergoing a digital transformation that emphasizes personalization, real-time data, and seamless payment integration. This evolving landscape calls for a more nuanced marketing strategy that leverages digital platforms effectively while addressing the diverse expectations of German travelers. 
+
 ### pain points travel in China
 Internet(apps blocked, need VPN or eSIM)
 Language(download translator, not google)
