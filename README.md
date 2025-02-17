@@ -1,6 +1,15 @@
 # Online traveling product analyse
 The project consists of two sub-projects: European and China traveling. To launch fast, We will focus on one product, German speaker and English speaker going to China in the beginning. 
 
+At this traveling company, we exist to deliver unparalleled value by placing our customers at the heart of every decision. We are dedicated to crafting tailored solutions, premium products, and seamless service experiences that empower individuals and businesses to thrive.
+
+## Core Values
+Customer Obsession: Every strategy, product, and interaction is designed with our customers’ success in mind. We listen, adapt, and evolve to exceed expectations.
+
+Quality Without Compromise: From sourcing to delivery, we prioritize excellence to ensure the "best for you" is never just a promise—it’s our standard.
+
+Innovation with Purpose: Leveraging cutting-edge [technology/approaches] to solve real-world challenges and create meaningful value.
+
 ## The European travleing(listed here and analyse in another document)
 This traveling focuses on Chinese travelers. My WeChat writing platform(公众号) will focus on German city introduction. The first article about Stuttgart have been read 2458 times and got 8 followers until 4. Feb. 2025. One follower sent message to me and I added his WeChat acount.
 
