@@ -1,5 +1,5 @@
-# Online traveling product analyse
-The project consists of two sub-projects: European and China traveling. To launch fast, We will focus on one product, German speaker and English speaker going to China in the beginning. 
+# Imbound China Traveling product analyse
+This project analyzes travel products tailored for European and Chinese markets, with an initial focus on **German and English-speaking travelers visiting China**. The goal is to prioritize fast iteration and launch by concentrating on key customer segments. 
 
 At this traveling company, we exist to deliver unparalleled value by placing our customers at the heart of every decision. We are dedicated to crafting tailored solutions, premium products, and seamless service experiences that empower individuals and businesses to thrive.
 
